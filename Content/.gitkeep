@@ -1,0 +1,18 @@
+// Placeholder file for Content directory structure
+// XNA Content Pipeline assets
+
+// Example structure:
+// Content/
+//   ├── Fonts/
+//   │   ├── GameFont.spritefont
+//   │   └── UIFont.spritefont
+//   ├── Textures/
+//   │   ├── animatronics/
+//   │   ├── environment/
+//   │   └── ui/
+//   ├── Audio/
+//   │   ├── effects/
+//   │   ├── music/
+//   │   └── voice/
+//   └── bin/
+//       └── [Compiled content]
