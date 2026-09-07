@@ -1,0 +1,9 @@
+// Placeholder file for Managers directory structure
+// Game manager classes (GameManager, EventManager, etc)
+
+// Example structure:
+// FNaFXna/Managers/
+//   ├── GameManager.cs
+//   ├── EventManager.cs
+//   ├── InputManager.cs
+//   └── AudioManager.cs
