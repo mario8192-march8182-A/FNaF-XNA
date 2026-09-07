@@ -1,0 +1,9 @@
+// Placeholder file for Entities directory structure
+// Game entity classes (Animatronics, Player, etc)
+
+// Example structure:
+// FNaFXna/Entities/
+//   ├── Animatronic.cs
+//   ├── Camera.cs
+//   ├── Player.cs
+//   └── DynamicObject.cs
