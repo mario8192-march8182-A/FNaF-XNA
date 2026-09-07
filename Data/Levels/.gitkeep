@@ -1,0 +1,12 @@
+// Placeholder file for Levels directory structure
+// Game level/night configuration files
+
+// Example structure:
+// Data/Levels/
+//   ├── night1.json
+//   ├── night2.json
+//   ├── night3.json
+//   ├── night4.json
+//   ├── night5.json
+//   ├── night6.json
+//   └── customnight.json
