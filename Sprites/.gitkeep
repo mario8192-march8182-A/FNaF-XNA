@@ -1,0 +1,26 @@
+// Placeholder file for Sprites directory structure
+// Add your sprite/texture files here:
+// - Animatronics/
+// - Environment/
+// - UI/
+// - Effects/
+
+// Example structure:
+// Sprites/
+//   ├── Animatronics/
+//   │   ├── Freddy.png
+//   │   ├── Bonnie.png
+//   │   ├── Chica.png
+//   │   └── Foxy.png
+//   ├── Environment/
+//   │   ├── office.png
+//   │   ├── hallway.png
+//   │   ├── camera_room.png
+//   │   └── parts_room.png
+//   ├── UI/
+//   │   ├── button.png
+//   │   ├── panel.png
+//   │   └── camera_feed.png
+//   └── Effects/
+//       ├── jumpscare.png
+//       └── blood.png
