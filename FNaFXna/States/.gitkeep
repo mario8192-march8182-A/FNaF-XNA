@@ -1,0 +1,9 @@
+// Placeholder file for States directory structure
+// Game state classes (MenuState, GameState, GameOverState, etc)
+
+// Example structure:
+// FNaFXna/States/
+//   ├── MenuState.cs
+//   ├── GameState.cs
+//   ├── GameOverState.cs
+//   └── PauseState.cs
