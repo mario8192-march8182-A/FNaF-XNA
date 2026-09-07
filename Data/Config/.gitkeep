@@ -1,0 +1,8 @@
+// Placeholder file for Config directory structure
+// Game configuration files
+
+// Example structure:
+// Data/Config/
+//   ├── settings.json
+//   ├── controls.json
+//   └── difficulty.json
