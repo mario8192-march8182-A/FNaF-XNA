@@ -1,0 +1,22 @@
+// Placeholder file for Textures directory structure
+// Game texture/sprite files organized by category
+
+// Example structure:
+// Content/Textures/
+//   ├── Animatronics/
+//   │   ├── Freddy.png
+//   │   ├── Bonnie.png
+//   │   ├── Chica.png
+//   │   └── Foxy.png
+//   ├── Environment/
+//   │   ├── office.png
+//   │   ├── hallway.png
+//   │   ├── camera_room.png
+//   │   └── parts_room.png
+//   ├── UI/
+//   │   ├── button.png
+//   │   ├── panel.png
+//   │   └── camera_feed.png
+//   └── Effects/
+//       ├── jumpscare.png
+//       └── blood.png
