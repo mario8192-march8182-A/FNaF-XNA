@@ -1,0 +1,17 @@
+// Placeholder file for FNaFXna directory structure
+// Main game classes and components
+
+// Example structure:
+// FNaFXna/
+//   ├── Entities/
+//   │   ├── Animatronic.cs
+//   │   ├── Camera.cs
+//   │   └── Player.cs
+//   ├── States/
+//   │   ├── MenuState.cs
+//   │   ├── GameState.cs
+//   │   └── GameOverState.cs
+//   └── Managers/
+//       ├── GameManager.cs
+//       ├── EventManager.cs
+//       └── InputManager.cs
