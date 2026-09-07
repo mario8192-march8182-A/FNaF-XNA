@@ -1,0 +1,15 @@
+// Placeholder file for Utils directory structure
+// Utility classes and helpers
+
+// Example structure:
+// Utils/
+//   ├── Math/
+//   │   ├── Vector2Utils.cs
+//   │   └── CollisionUtils.cs
+//   ├── File/
+//   │   ├── SaveManager.cs
+//   │   └── ConfigLoader.cs
+//   ├── Debug/
+//   │   └── Logger.cs
+//   └── Animation/
+//       └── SpriteAnimator.cs
