@@ -1,0 +1,9 @@
+// Placeholder file for Fonts directory structure
+// XNA SpriteFont files
+
+// Example structure:
+// Content/Fonts/
+//   ├── GameFont.spritefont
+//   ├── UIFont.spritefont
+//   ├── MenuFont.spritefont
+//   └── HUDFont.spritefont
