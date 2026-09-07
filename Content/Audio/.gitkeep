@@ -1,0 +1,15 @@
+// Placeholder file for Audio directory structure
+// Game audio files organized by type
+
+// Example structure:
+// Content/Audio/
+//   ├── Effects/
+//   │   ├── door_slam.wav
+//   │   ├── camera_switch.wav
+//   │   └── button_click.wav
+//   ├── Music/
+//   │   ├── menu_theme.wav
+//   │   └── night_ambience.wav
+//   └── Voice/
+//       ├── freddy_laugh.wav
+//       └── phone_call.wav
