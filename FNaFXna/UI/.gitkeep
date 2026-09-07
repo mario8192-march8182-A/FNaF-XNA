@@ -1,0 +1,9 @@
+// Placeholder file for UI directory structure
+// UI components and screens
+
+// Example structure:
+// FNaFXna/UI/
+//   ├── Button.cs
+//   ├── Panel.cs
+//   ├── HUD.cs
+//   └── CameraUI.cs
