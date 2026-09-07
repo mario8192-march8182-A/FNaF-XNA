@@ -1,0 +1,22 @@
+// Placeholder file for Sounds directory structure
+// Add your audio files here:
+// - Ambience/
+// - Effects/
+// - Music/
+// - Voice/
+
+// Example structure:
+// Sounds/
+//   ├── Ambience/
+//   │   ├── office_ambience.wav
+//   │   └── power_down.wav
+//   ├── Effects/
+//   │   ├── door_slam.wav
+//   │   ├── camera_switch.wav
+//   │   └── button_click.wav
+//   ├── Music/
+//   │   ├── menu_theme.wav
+//   │   └── night_ambience.wav
+//   └── Voice/
+//       ├── freddy_laugh.wav
+//       └── phone_call.wav
