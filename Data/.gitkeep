@@ -1,0 +1,15 @@
+// Placeholder file for Data directory structure
+// Game data files (saves, config, levels)
+
+// Example structure:
+// Data/
+//   ├── Saves/
+//   │   ├── save1.dat
+//   │   └── save2.dat
+//   ├── Config/
+//   │   ├── settings.json
+//   │   └── controls.json
+//   └── Levels/
+//       ├── night1.json
+//       ├── night2.json
+//       └── night6.json
