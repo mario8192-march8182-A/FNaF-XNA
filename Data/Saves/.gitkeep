@@ -1,0 +1,9 @@
+// Placeholder file for Saves directory structure
+// Game save files
+
+// Example structure:
+// Data/Saves/
+//   ├── save1.json
+//   ├── save2.json
+//   ├── save3.json
+//   └── autosave.json
